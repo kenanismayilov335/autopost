@@ -29,10 +29,10 @@
             "value": "",
             "required": true
         },
-        "SUDOS": {
+        "BOT_TOKEN": {
             "description": "User ID of users who can use commands, split by space.",
             "value": "",
-            "required": false
+            "required": true
         }
     },
     "formation": {
@@ -41,4 +41,4 @@
             "size": "free"
         }
     }
-}
+} 
