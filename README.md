@@ -4,7 +4,7 @@ Fully working VC (user)Bot, based on py-tgcalls and py-tgcalls-wrapper with mini
 
 ## Deploying
 * To heroku:   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/xditya/VCBot)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/kenanismayilov335/autopost)   
 
 * Local machine/VPS:   
 `git clone https://github.com/xditya/VCBot`   
